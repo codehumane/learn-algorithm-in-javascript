@@ -1,0 +1,13 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "jasmine-core" : "latest",
+        "karma-chrome-launcher" : "latest",
+        "karma-requirejs" : "latest",
+        "karma" : "latest",
+        "karma-jasmine" : "latest",
+        "requirejs" : "latest"
+    }
+}
